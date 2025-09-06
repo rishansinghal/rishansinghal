@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d65722e676966)
+![MasterHead](https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif)
 
 <h1 align="center">Hi 👋, I'm Rishab Singhal</h1>
 <h3 align="center">📊 Data Scientist | Python • SQL • Power BI • Cloud • Statistics</h3>
